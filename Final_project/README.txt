@@ -31,11 +31,10 @@ Step 3 - Graphical analysis
 Graph the distribution of the obesity index by age, gender and income quintile (or other relevant covariates)
 Graph the distribution of the obesity index by gender and income quintile (or other relevant covariates)
 
-
-
 Step 4- Data analysis
 Evaluate if missingness of outcomes of interest is correlated with the socioeconomic covariates of interest
 Regress the obesity index on the covariates of interest and report the results 
 Use interpolation to predict the value of the obesity index when missing
 Compare the original and interpolated distribution stratified by the relevant covariates
+
 Step 5- Upload final report  
