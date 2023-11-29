@@ -1,0 +1,60 @@
+***********************************************************************
+****************************Data dictionary****************************
+***********************************************************************
+
+*********************************************************************************************************************************************************************************************************************
+********Demographic data*******
+SEQN - Respondent sequence number
+SDDSRVYR - Data release cycle
+RIDSTATR - Interview/Examination status
+RIAGENDR - Gender
+RIDAGEYR - Age in years at screening
+RIDAGEMN - Age in months at screening - 0 to 24 mos
+RIDRETH1 - Race/Hispanic origin
+RIDRETH3 - Race/Hispanic origin w/ NH Asian
+RIDEXMON - Six-month time period
+DMDBORN4 - Country of birth
+DMDYRUSZ - Length of time in US
+DMDEDUC2 - Education level - Adults 20+
+DMDMARTZ - Marital status
+RIDEXPRG - Pregnancy status at exam
+SIALANG - Language of SP Interview
+SIAPROXY - Proxy used in SP Interview?
+SIAINTRP - Interpreter used in SP Interview?
+FIALANG - Language of Family Interview
+FIAPROXY - Proxy used in Family Interview?
+FIAINTRP - Interpreter used in Family Interview?
+MIALANG - Language of MEC Interview
+MIAPROXY - Proxy used in MEC Interview?
+MIAINTRP - Interpreter used in MEC Interview?
+AIALANGA - Language of ACASI Interview
+WTINTPRP - Full sample interview weight
+WTMECPRP - Full sample MEC exam weight
+SDMVPSU - Masked variance pseudo-PSU
+SDMVSTRA - Masked variance pseudo-stratum
+INDFMPIR - Ratio of family income to poverty
+
+*********************************************************************************************************************************************************************************************************************
+********Body measure data*******
+SEQN - Respondent sequence number
+BMDSTATS - Body Measures Component Status Code
+BMXWT - Weight (kg)
+BMIWT - Weight Comment
+BMXRECUM - Recumbent Length (cm)
+BMIRECUM - Recumbent Length Comment
+BMXHEAD - Head Circumference (cm)
+BMIHEAD - Head Circumference Comment
+BMXHT - Standing Height (cm)
+BMIHT - Standing Height Comment
+BMXBMI - Body Mass Index (kg/m**2)
+BMDBMIC - BMI Category - Children/Youth
+BMXLEG - Upper Leg Length (cm)
+BMILEG - Upper Leg Length Comment
+BMXARML - Upper Arm Length (cm)
+BMIARML - Upper Arm Length Comment
+BMXARMC - Arm Circumference (cm)
+BMIARMC - Arm Circumference Comment
+BMXWAIST - Waist Circumference (cm)
+BMIWAIST - Waist Circumference Comment
+BMXHIP - Hip Circumference (cm)
+BMIHIP - Hip Circumference Comment
