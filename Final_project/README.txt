@@ -13,10 +13,10 @@ Create repertory for final project
 Upload the data and the documentation 
 
 Step 1- Data preparation: cleaning and standardization 
-Create the dataset for analysis with body measures (outcomes) and demographic data (covariates). 
-Create covariates categrories (age-groups, income quintile) and outcomes (obesity binary) 
+Create the dataset for analysis with body measures (outcomes) and demographic data (covariates).  
 Restrict data to non-pregnant individuals for whom at least some body measures are available.
 Reformat all column name in lower case.
+Create covariates categrories (age-groups, income quintile) and outcomes (obesity binary)
 Create an alternative outcome variable excluding extreme values
     
 Step 2- Descritpive statistics
