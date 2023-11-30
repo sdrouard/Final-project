@@ -9,8 +9,8 @@ Research question: What is the distribution of obesity in the US and what are th
 Data analysis plan:
 
 Step 0- Initiation 
-Create repertory for final project
-Upload the data and the documentation 
+-Create repertory for final project
+-Upload the data and the documentation 
 
 Step 1- Data preparation: cleaning and standardization 
 -Create the dataset for analysis with body measures (outcomes) and demographic data (covariates).  
@@ -30,9 +30,9 @@ Step 3 - Graphical analysis
 -Graph the distribution of the body measures by interactions of the relevant covariates
 
 Step 4- Data analysis 
-Use interpolation to predict the value of the obesity index when missing/extreme values 
-Compare the original and interpolated distribution stratified by the relevant covariates
-Analysis the determinants of body measures using a linear regression
-Analysis the determinants of obesity with a logistic model
+-Use interpolation to predict the value of the obesity index when missing/extreme values 
+-Compare the original and interpolated distribution stratified by the relevant covariates
+-Analysis the determinants of body measures using a linear regression
+-Analysis the determinants of obesity with a logistic model
 
 Step 5- Upload final report  
