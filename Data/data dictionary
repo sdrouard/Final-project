@@ -1,8 +1,3 @@
-***********************************************************************
-****************************Data dictionary****************************
-***********************************************************************
-
-*********************************************************************************************************************************************************************************************************************
 ********Demographic data*******
 SEQN - Respondent sequence number
 SDDSRVYR - Data release cycle
@@ -12,11 +7,16 @@ RIDAGEYR - Age in years at screening
 RIDAGEMN - Age in months at screening - 0 to 24 mos
 RIDRETH1 - Race/Hispanic origin
 RIDRETH3 - Race/Hispanic origin w/ NH Asian
-RIDEXMON - Six-month time period
+RIDEXMON - Six month time period
+RIDEXAGM - Age in months at exam - 0 to 19 years
+DMQMILIZ - Served active duty in US Armed Forces
+DMQADFC - Served in a foreign country
 DMDBORN4 - Country of birth
-DMDYRUSZ - Length of time in US
+DMDCITZN - Citizenship status
+DMDYRSUS - Length of time in US
+DMDEDUC3 - Education level - Children/Youth 6-19
 DMDEDUC2 - Education level - Adults 20+
-DMDMARTZ - Marital status
+DMDMARTL - Marital status
 RIDEXPRG - Pregnancy status at exam
 SIALANG - Language of SP Interview
 SIAPROXY - Proxy used in SP Interview?
@@ -28,10 +28,22 @@ MIALANG - Language of MEC Interview
 MIAPROXY - Proxy used in MEC Interview?
 MIAINTRP - Interpreter used in MEC Interview?
 AIALANGA - Language of ACASI Interview
-WTINTPRP - Full sample interview weight
-WTMECPRP - Full sample MEC exam weight
+DMDHHSIZ - Total number of people in the Household
+DMDFMSIZ - Total number of people in the Family
+DMDHHSZA - # of children 5 years or younger in HH
+DMDHHSZB - # of children 6-17 years old in HH
+DMDHHSZE - # of adults 60 years or older in HH
+DMDHRGND - HH ref person's gender
+DMDHRAGZ - HH ref person's age in years
+DMDHREDZ - HH ref person's education level
+DMDHRMAZ - HH ref person's marital status
+DMDHSEDZ - HH ref person's spouse's education level
+WTINT2YR - Full sample 2 year interview weight
+WTMEC2YR - Full sample 2 year MEC exam weight
 SDMVPSU - Masked variance pseudo-PSU
 SDMVSTRA - Masked variance pseudo-stratum
+INDHHIN2 - Annual household income
+INDFMIN2 - Annual family income
 INDFMPIR - Ratio of family income to poverty
 
 *********************************************************************************************************************************************************************************************************************
