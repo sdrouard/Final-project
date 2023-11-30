@@ -16,8 +16,8 @@ Step 1- Data preparation: cleaning and standardization
 -Create the dataset for analysis with body measures (outcomes) and demographic data (covariates).  
     *Restrict data to non-pregnant individuals for whom at least some body measures are available.
 -Reformat all column name in lower case.
--Create covariates categrories (age-groups, income quintile) and outcomes (obesity binary)
--Create an alternative outcome variable excluding extreme values
+-Create covariates categrories (age-groups, income quintile) 
+-Create an alternative outcome variable excluding extreme values and obesity binary variable
     
 Step 2- Descritpive statistics
 -Report covariates for the entire sample, and by obesity status
