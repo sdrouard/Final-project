@@ -45,7 +45,7 @@ SDMVSTRA - Masked variance pseudo-stratum
 INDHHIN2 - Annual household income
 INDFMIN2 - Annual family income
 INDFMPIR - Ratio of family income to poverty
-
+Full description: https://wwwn.cdc.gov/Nchs/Nhanes/2017-2018/DEMO_J.htm#INDHHIN2
 *********************************************************************************************************************************************************************************************************************
 ********Body measure data*******
 SEQN - Respondent sequence number
@@ -70,3 +70,4 @@ BMXWAIST - Waist Circumference (cm)
 BMIWAIST - Waist Circumference Comment
 BMXHIP - Hip Circumference (cm)
 BMIHIP - Hip Circumference Comment
+Full description:https://wwwn.cdc.gov/Nchs/Nhanes/2017-2018/BMX_J.htm#BMDSTATS
