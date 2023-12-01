@@ -4,7 +4,7 @@ Format: analyzing a dataset using wrangling and modeling
 
 Dataset(s): National Health and Nutrition Examination Survey 2017-2019 (Body Measures + demographic data)
 
-Research question: What is the distribution of obesity in the US and what are the socio-economic risk factors associated with obesity?
+Research question: What are the socio-economic risk factors associated with obesity in the US?
 
 Data analysis plan:
 
@@ -20,7 +20,7 @@ Step 1- Data preparation: cleaning and standardization
 -Create an alternative outcome variable excluding extreme values and obesity binary variable
     
 Step 2- Descritpive statistics
--Report covariates for the entire sample, and by obesity status
+-Report covariate distribution for the entire sample, and by obesity status
 -Report missingness and extreme values in outcomes of interest
 -Report graphs of the body measure distributions and discuss if extreme values are outliers
 -Analysis the determinants of outliers and missing values
