@@ -334,7 +334,7 @@ bm <- as.data.table(bm)
          ggsave(filename = paste0("C:\\Users\\sdrouard\\Documents\\coursework\\Final_project\\interpolated.png"), width = 10, height = 10)
        
       
-      # 5.2.2 Concordance of both methos
+      # 5.2.2 Obesity: Concordance of both methods
          table(predicted_sample$predicted_obesity_bmi,predicted_sample$predicted_obesity_model)
            
          
